@@ -10,7 +10,7 @@ The data set had 3276 columns along with 10 columns. Among the 10 columns, 9 wer
 Upon further analyzing the data there were many insights we came across. A key highlight of them are:
 1) There are 9 numerical features(Independent Variables), 1 target Variable and NO Categorical features.
 2) The dataset had missing values.
-3) Many feaures didn't had a normal disribution and has some kind of skewness in it, refering that the data set had OULIERS.
+3) Many feaures didn't had a normal disribution and has some kind of skewness in it, refering that the data set had OUTLIERS.
 4) The data in the given data set is not scaled in the same order.
 5) There was no correlation among he feaures themselves nor with the target variable.
 All these insights were gained by plotting graphs such as Boxplot, Histogram, Pairplot, Piechart, etc. and statistically analyzing the features.
